@@ -2,7 +2,7 @@
 
 This is a fully functional **Weather App** built using **Kotlin** and **XML** in **Android Studio**, integrating the **OpenWeather API**. It displays real-time weather data including temperature, humidity, wind speed, and sunrise/sunset timings for any city.
 
-APK Download Link: https://drive.google.com/file/d/1pf9QoC4bXZUhnnYQ1GESSL9KMtuav92C/view?usp=sharing
+APK Download Link: https://mega.nz/file/DINzRRqa#RVZncimQz_EUF-GzK3hlEmSdyCOuuYiWZEcXl3BB7Cg
 
 ## ✨ Features
 
